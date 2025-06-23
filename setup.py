@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="AWG",
+    name="AWG_Automation",
     version="0.1.0",
     author="Vijayanand Kv",
     description="Python SCPI interface for controlling Keysight M8195A AWG",
