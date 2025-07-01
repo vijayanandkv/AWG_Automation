@@ -58,11 +58,5 @@ pip install -e .
 
 ---
 
-✅ You can now paste this directly into a `README.md` file in your GitHub repo.
-
-Let me know if you also want:
-- A `setup.py` to make the project pip-installable
-- Examples of waveform generation
-- How to publish it to PyPI later (optional)
 
 
